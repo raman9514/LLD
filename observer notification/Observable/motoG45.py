@@ -1,5 +1,5 @@
 
-class IphoneObserver:
+class motoG45:
     def __init__(self):
         self.subscriber = list()
         self.stockCount = 0
